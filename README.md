@@ -4,9 +4,11 @@
 <h4>I live in Santiago del Estero Argentina and I am Full-Stack Developer 👨💻 self-taught and versatile who is always learning and applying everything✍️👨🔧. I also enjoy passing on knowledge and working in a team.
 </h4>
 
-- 🔭 I’m currently working on [**a Final Project at Henry Bootcamp**](https://fittnet-g11.vercel.app/)
+- 🔭 I’m currently working on [**an Online Accountant System for SmallMediumEnterprises (SME)**]
 
-- 🌱 I’m currently learning **React-native**
+- 🌱 I’m currently learning **Python-Django**
+
+- 👌 I’m finished working on [**a Final Project at Henry Bootcamp**](https://fittnet-g11.vercel.app/)
 
 - 👌 I’m finished my Individual Project [App Pokemon](https://github.com/LuisLescano988/Henrymons)
 
