@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Lescano</h1>
 <h3 align="center">Full Stack Developer</h3>
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
-<h4>I live in Santiago del Estero Argentina and I am Full-Stack Developer 👨💻 self-taught and versatile who is always learning and applying everything✍️👨🔧. I also enjoy passing on knowledge and working in a team.
+<h4>I live in Santiago del Estero Argentina and I am Front-End Developer 👨💻 self-taught and versatile who is always learning and applying everything✍️👨🔧. I also enjoy passing on knowledge and working in a team.
 </h4>
 
 - 🔭 I’m currently working on [**an Online Accountant System for SmallMediumEnterprises (SME)**]
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LuisLescano988](https://github.com/LuisLescano988)
 
-- 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node Js, Express, PostgreSQL, Sequalize, Mongo db**
+- 💬 Ask me about **JavaScript, TypeScript, React, NextJs, Redux, HTML, CSS, Node Js, Express, PostgreSQL, Sequalize, Mongo db**
 
 - 📫 How to reach me **luislescanologo@hotmail.com**
 
