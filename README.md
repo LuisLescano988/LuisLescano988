@@ -8,9 +8,11 @@
 
 - 🌱 I’m currently learning **Python-Django**
 
+- 👌 I’m finished working on [My Personal Portfolio](https://luigidev.vercel.app/)
+
 - 👌 I’m finished working on [**a Final Project at Henry Bootcamp**](https://fittnet-g11.vercel.app/)
 
-- 👌 I’m finished my Individual Project [App Pokemon](https://github.com/LuisLescano988/Henrymons)
+- 👌 I’m finished my Individual Project [Video-games-fullstack-SPA](https://fullstack-video-games.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/LuisLescano988](https://github.com/LuisLescano988)
 
