@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **JavaScript, TypeScript, React, NextJs, Redux, HTML, CSS, Node Js, Express, PostgreSQL, Sequalize, Mongo db**
 
-- 📫 How to reach me **luislescanologo@hotmail.com**
+- 📫 How to reach me **alfredoluislescano@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
